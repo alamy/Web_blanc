@@ -1,0 +1,57 @@
+home
+
+ordem dos links do footer está errada - ok
+link ver mais tratamentos está direcionando para pagina errada - ok
+
+home mobile
+
+alinhamento do link continuar lendo de nossa historia está errado - ok 
+titulo de tratamentos está com texto diferente do layout - ok
+imagem de tratamentos não está em carousel - ok
+alinhamento do link ver mais tratamentos está errado - ok
+alinhamento do texto "© 2017 | Blanc. Todos os Direitos Reservados." está diferente do layout (é pra estar em uma linha) - ok
+
+
+equipe
+
+está com rolamento horizontal - ok
+espaçamento entre box verde e titulo da pagina está diferente do layout - ok
+
+equipe mobile
+
+está com rolamento horizontal - ok
+espaçamento entre box verde e logo do site está diferente do layout - ok
+pontinhos das imagens do carousel está com uma distância muito grande da imagem acima diferente do layout - ok
+espaçamento entre texto e cargo está diferente do layout - ok
+
+institucional
+
+imagem de nossa estrutura está diferente do layout: não está com o passador de imagem e a disposição do quadrado verde por tras da imagem está diferente do layout
+
+institucional mobile
+imagem do topo não está na mesma proporção do layout
+alinhamento do texto "nossa estrutura" está diferente do layout
+disposição do box verde e imagem de nossa estrutura está diferente do layout, e as imagens são com carousel.
+
+tratamentos mobile
+
+tudo quebrado (??)
+
+contato
+
+botão enviar está diferente do layout - ok 
+espaçamento entre formulário e titulo está diferente do layout - ok
+mapa está diferente do layout - Não tem como baixar a imagem. Botei um mapa real do gmaps, mas vou mudar para uma imagem generica
+botão ver no maps está faltando
+texto do box verde está diferente do layout
+campos do formulário estão sem validação
+configurar envio de emaio do formulário de contato com uma conta genérica (ex: google) para enviar para rayann.nayran@gmail.com
+
+contato mobile
+
+disposição entre box verde e mapa está diferente do layout
+alinhamento do titulo do formulário está diferente do layout
+
+
+
+GERAL: fontes, tamanho de fontes, cores de fontes, alinhamentos, tamanho de imagens e elementos.
