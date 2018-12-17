@@ -1,12 +1,12 @@
 <?php
 // Adiciona o arquivo class.phpmailer.php - você deve especificar corretamente o caminho da pasta com o este arquivo.
-require_once("autenvio/PHPMailerAutoload.php");
+require_once("PHPMailer/src/PHPMailer.php");
 // Inicia a classe PHPMailer
 $mail = new PHPMailer();
  
 // DEFINIÇÃO DOS DADOS DE AUTENTICAÇÃO - Você deve auterar conforme o seu domínio!
 $mail->IsSMTP(); // Define que a mensagem será SMTP
-$mail->Host = "smtp.playersdigital.com.br"; // Seu endereço de host SMTP
+$mail->Host = "smtp.gmail.com"; // Seu endereço de host SMTP
 $mail->SMTPAuth = true; // Define que será utilizada a autenticação -  Mantenha o valor "true"
 $mail->Port = 587; // Porta de comunicação SMTP - Mantenha o valor "587"
 $mail->SMTPSecure = false; // Define se é utilizado SSL/TLS - Mantenha o valor "false"
